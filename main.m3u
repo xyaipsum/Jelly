@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://commons.wikimedia.org/wiki/File:ESPN_Logo.png" ,ESPN
-http://45.167.2.138:8000/play/a0rf/index.m3u8
+http://45.167.2.138:8000/play/a0rf/index.m3u8?hls
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://commons.wikimedia.org/wiki/File:ESPN2_Logo.png" ,ESPN 2
 http://45.167.2.138:8000/play/a0r3/index.m3u8?hls
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://commons.wikimedia.org/wiki/File:ESPN3_Logo.png" ,ESPN 3
