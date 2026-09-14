@@ -24,7 +24,7 @@ http://45.167.2.138:8000/play/a0qn/index.m3u8?hls
 http://45.167.2.138:8000/play/a0r4/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="teletrak_v2?" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/TELETRAK_V2.png",TELETRAK
-https://vertvcable.testaacc.workers.dev/streamproxy?url=b3t7d3pBNjZ8dXNwdHB7bGs9NGpzNWt3ejVzcH1sNnp3dnl7cHVub2s2end2eXtwdW5vazV6dHBzNndzaMKAc3B6ezV0Onw%2F&ext=.m3u8?hls&hls
+https://vertvcable.testaacc.workers.dev/streamproxy?url=b3t7d3pBNjZ8dXNwdHB7bGs9NGpzNWt3ejVzcH1sNnp3dnl7cHVub2s2end2eXtwdW5vazV6dHBzNndzaMKAc3B6ezV0Onw%2F&ext=.m3u8?hls
 
 #EXTINF:-1 tvg-id="nascar" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/2017_NASCAR_on_NBC_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",Nascar Channel
 https://aegis-cloudfront-1.tubi.video/a8586229-0ea0-4eb4-bb23-09674c2a94d3/playlist1080p-cc.m3u8?hls
