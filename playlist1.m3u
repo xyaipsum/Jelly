@@ -8,6 +8,24 @@ http://45.167.2.138:8000/play/a0r3/index.m3u8?hls
 #EXTINF:-1 tvg-id="espn_3" tvg-name="ESPN 3" tvg-logo="https://commons.wikimedia.org/wiki/File:ESPN3_Logo.png" group-title="Deportes",ESPN 3
 http://45.167.2.138:8000/play/a0q0/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt0yfNWT0Uks3KsmfpW4OcqE6Gh3YHZF7WQVxtRopK5g&s=10" group-title="BASICO",ESPN MX
+http://201.190.41.246:8000/play/a01t/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkKRVYq-8yTt6CATidl0e4_itm2vNKJu7vu-3l16pFLQ&s=10" group-title="BASICO",ESPN 2 MX
+http://201.190.41.246:8000/play/a01u/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSeBiZaQuFtt241RI-Un7zLIPZEY4BLbXo2NtrWJr-GQ&s=10" group-title="BASICO",ESPN 3 MX
+http://201.190.41.246:8000/play/a00x/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYg_THxSWK-yv-GxEWhdn9TVQwZUX_WCDys-ezojHorg&s=10" group-title="BASICO",ESPN 4 MX
+http://201.190.41.246:8000/play/a00y/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlPJn7fpn1Ri-cL4iQprXIwrKatngnBCh4ekz1G9ZwRw&s=10" group-title="BASICO",ESPN 5 MX
+http://201.190.41.246:8000/play/a00l/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrwJrTEnfXdRmElOkaV0Sdf9CtFSJQQqJUbmStXwUYCA&s=10" group-title="BASICO",ESPN 6 MX
+http://201.190.41.246:8000/play/a01d/index.m3u8?hls
+
 #EXTINF:-1 tvg-id="fox_mlb" tvg-name="FOX MLB" tvg-logo="https://commons.wikimedia.org/wiki/File:Major_League_Baseball_logo.svg" group-title="Deportes",FOX MLB
 http://45.167.2.138:8000/play/a0sz/index.m3u8?hls
 
@@ -59,14 +77,48 @@ http://45.167.2.138:8000/play/a0q9/index.m3u8?hls
 #EXTINF:-1 tvg-id="hbo2" tvg-name="HBO2" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/HBO2.png" group-title="Cine y Películas",HBO2
 http://45.167.2.138:8000/play/a0lp/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiwxDB0CqRqFx4u0_ZNt2RwZsOV0kDY_Kkk4iHPrympw&s=10" group-title="BASICO 2",HBO FAMILY
+http://200.115.120.1:8000/play/ca135/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToWtjkof-b59D6BjgY68AzbHDSejclCwH7qIH3-EzUKA&s" group-title="BASICO 2",HBO MUNDI
+http://200.115.120.1:8000/play/ca136/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_DECI6nYVTmidZfu6bSpy4Bd4ZD-wreZeA2Twv0eM7w&s=10" group-title="BASICO 2",HBO POP
+http://200.115.120.1:8000/play/ca138/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU0iynQNNEJpL6UXPCvsNs6FEFX7NOIy7CPrSe28N3jA&s=10" group-title="BASICO 2",HBO PLUS
+http://200.115.120.1:8000/play/ca137/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlBgKVcaNnScxgQe1QgTvGztLqahGjit6haDQX_5I4IQ&s=10" group-title="BASICO 2",HBO SIGNATURE
+http://200.115.120.1:8000/play/ca139/index.m3u8?hls
+
 #EXTINF:-1 tvg-id="sonycine" tvg-name="Sony Cine" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="Cine y Películas",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiwxDB0CqRqFx4u0_ZNt2RwZsOV0kDY_Kkk4iHPrympw&s=10" group-title="BASICO",HBO FAMILY HD
+http://201.190.41.246:8000/play/a00a/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH27bjvIjOoHWx0R0O9oJaFJh2WibIdjo02YXqaJyVXg&s=10" group-title="BASICO",HBO HD
+http://201.190.41.246:8000/play/a007/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU0iynQNNEJpL6UXPCvsNs6FEFX7NOIy7CPrSe28N3jA&s=10" group-title="BASICO",HBO PLUS HD
+http://201.190.41.246:8000/play/a009/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxo8oW6qEm3KVfPLZgWT87X4sjK5tz9wfHdwM2gmeSBQ&s=10" group-title="BASICO",HBO XTREME
+http://201.190.41.246:8000/play/a00b/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rsX-_1O3LhmkvtcY382OwyJjJm8Ya56JxLsHRCLakQ&s=10" group-title="BASICO",HBO2 HD
+http://201.190.41.246:8000/play/a008/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG2dG7llGSNMrTuuSLxQR8cWdHLDTIOh5yyuNxKRR19Q&s=10" group-title="BASICO",HCH HN
+http://201.190.41.246:8000/play/a012/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-id="nextchannel" tvg-name="Next Channel" tvg-logo="https://channelnext.ae/wp-content/uploads/2023/08/CHANNEL-NEXT-LOGO-1-1024x368.png" group-title="Cine y Películas",Next Channel
 https://edge.enhdtv.com/nexthd/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="startv" tvg-name="Star Channel" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Star_Channel.png" group-title="Cine y Películas",Star Channel
-http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/414464?hls
+http://201.190.41.246:8000/play/a01w/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="startv" tvg-name="Space" tvg-logo="https://i2.wp.com/webadictos.com/media/2020/03/space-tv.png?fit=600%2C323&ssl=1" group-title="Cine y Películas",Space
 http://45.167.2.138:8000/play/a0rw/index.m3u8?hls
@@ -76,6 +128,12 @@ http://45.167.2.138:8000/play/a0lq/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="studio_universal" tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine y Películas",Studio Universal
 http://45.167.2.138:8000/play/a0ln/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6YQnLzowpT327YpiM3mZ34uOkLCYFEGyMMG_TRf-g-Q&s=10" group-title="BASICO 2",UNIVERSAL PREMIERE
+http://200.115.120.1:8000/play/ca144/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6VrYQ7gbLXyK34p7sN6K02S5d5zKe49k98Kl-rLdGaw&s=10" group-title="BASICO 2",UNIVERSAL CINEMA
+http://200.115.120.1:8000/play/ca145/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="tnt_alt" tvg-name="TNT Alt" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/TNT_Alt.png" group-title="Series y Entretenimiento",TNT Alt
 http://45.167.2.138:8000/play/a0rn/index.m3u8?hls
@@ -146,6 +204,12 @@ https://vertvcable.testaacc.workers.dev/streamproxy?url=b3t7d3pBNjZvc3o1emh9dnB5
 #EXTINF:-1 tvg-id="tnt" tvg-name="TNT MX" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/TNT_Alt.png" group-title="Series y Entretenimiento",TNT MX
 https://tvporinternet.arcando.cloud/proxy/tnt?option=1&hls
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5V_0HaH7BdMpCkMIW7s3zSqT_vZr5FqCcpw&s" group-title="BASICO",TELEMUNDO INTERNACIONAL
+http://201.190.41.246:8000/play/a016/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn8B1f1xd6_1Ys2oVu3pq3baulecZzh5xz5T3XscJApA&s=10" group-title="BASICO",TELEMUNDO
+http://201.190.41.246:8000/play/a024/index.m3u8?hls
+
 #EXTINF:-1 tvg-id="tnt_series" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/TNT_Series.png" group-title="Series y Entretenimiento",TNT Series
 http://45.167.2.138:8000/play/a0l8/index.m3u8?hls
 
@@ -160,6 +224,9 @@ http://45.167.2.138:8000/play/a0la/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="cartoon_network" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/CARTOON_NETWORK.png" group-title="Infantiles y Animación",CARTOON NETWORK
 http://45.167.2.138:8000/play/a0px/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4unTMjBDH6Jv7YuHYaa5a8TiOb9iMNUneHkXLvsyZNw&s=10" group-title="BASICO 2",BITME
+http://200.115.120.1:8000/play/ca012/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Cartoonito.png" group-title="Infantiles y Animación",Cartoonito
 http://45.167.2.138:8000/play/a0s8/index.m3u8?hls
