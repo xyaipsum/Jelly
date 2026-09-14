@@ -23,16 +23,16 @@ http://45.167.2.138:8000/play/a0qn/index.m3u8?hls
 #EXTINF:-1 tvg-id="tudn" group-title="Deportes" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png",TUDN
 http://45.167.2.138:8000/play/a0r4/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="teletrak_v2?" group-title="Deportes" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/TELETRAK_V2.png",TELETRAK
+#EXTINF:-1 tvg-id="teletrak_v2?" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/TELETRAK_V2.png",TELETRAK
 https://vertvcable.testaacc.workers.dev/streamproxy?url=b3t7d3pBNjZ8dXNwdHB7bGs9NGpzNWt3ejVzcH1sNnp3dnl7cHVub2s2end2eXtwdW5vazV6dHBzNndzaMKAc3B6ezV0Onw%2F&ext=.m3u8?hls
 
 #EXTINF:-1 tvg-id="nascar" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/2017_NASCAR_on_NBC_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",Nascar Channel
 https://aegis-cloudfront-1.tubi.video/a8586229-0ea0-4eb4-bb23-09674c2a94d3/playlist1080p-cc.m3u8?hls
 
-#EXTINF:-1 tvg-id="tnt_sports" group-title="Deportes" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/ESPN_MX.png",ESPN
+#EXTINF:-1 tvg-id="tnt_sports" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/ESPN_MX.png",ESPN
 http://45.167.2.138:8000/play/a0py/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="a3cine" group-title="Cine y Películas" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/A3CINE.png",A3CINE
+#EXTINF:-1 tvg-id="a3cine" group-title="Cine y Películas" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/A3CINE.png",A3CINE
 http://45.167.2.138:8000/play/a0ro/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="amc" group-title="Cine y Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",AMC
@@ -41,13 +41,13 @@ http://45.167.2.138:8000/play/a0o1/index.m3u8?hls
 #EXTINF:-1 tvg-id="amc_series" group-title="Cine y Películas" tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/index/Z9YHbjFofV_logo-amc-series.webp",AMC SERIES
 http://45.167.2.138:8000/play/a0q5/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="cine_latino" group-title="Cine y Películas" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Cine_Latino.png",Cine Latino
+#EXTINF:-1 tvg-id="cine_latino" group-title="Cine y Películas" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Cine_Latino.png",Cine Latino
 http://45.167.2.138:8000/play/a0rp/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="cinemax" group-title="Cine y Películas" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/CINEMAX.png",CINEMAX
+#EXTINF:-1 tvg-id="cinemax" group-title="Cine y Películas" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/CINEMAX.png",CINEMAX
 https://tvporinternet.arcando.cloud/proxy/cinemax?hls
 
-#EXTINF:-1 tvg-id="golden_edge" group-title="Cine y Películas" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Golden_Edge.png",Golden Edge
+#EXTINF:-1 tvg-id="golden_edge" group-title="Cine y Películas" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Golden_Edge.png",Golden Edge
 http://45.167.2.138:8000/play/a0sb/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ent_family" group-title="Cine y Películas" tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png",ENT Family
@@ -56,7 +56,7 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8?h
 #EXTINF:-1 tvg-id="film_&_arts" group-title="Cine y Películas" tvg-logo="https://fa-media.s3.amazonaws.com/downloads/set_web_logo_picture-/l5mbaxk7qo_fa-logo.png",Film & Arts
 http://45.167.2.138:8000/play/a0q9/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="hbo2" group-title="Cine y Películas" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/HBO2.png",HBO2
+#EXTINF:-1 tvg-id="hbo2" group-title="Cine y Películas" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/HBO2.png",HBO2
 http://45.167.2.138:8000/play/a0lp/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="sonycine" group-title="Cine y Películas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es",Sony Cine
@@ -65,37 +65,37 @@ https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8?hls
 #EXTINF:-1 tvg-id="nextchannel" group-title="Cine y Películas" tvg-logo="https://channelnext.ae/wp-content/uploads/2023/08/CHANNEL-NEXT-LOGO-1-1024x368.png",Next Channel
 https://edge.enhdtv.com/nexthd/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="startv" group-title="Cine y Películas" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Star_Channel.png",Star Channel
+#EXTINF:-1 tvg-id="startv" group-title="Cine y Películas" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Star_Channel.png",Star Channel
 http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/414464
 
 #EXTINF:-1 tvg-id="startv" group-title="Cine y Películas" tvg-logo="https://i2.wp.com/webadictos.com/media/2020/03/space-tv.png?fit=600%2C323&ssl=1",Space
 http://45.167.2.138:8000/play/a0rw/index.m3u8
 
-#EXTINF:-1 tvg-id="multipremier" group-title="Cine y Películas" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/MULTIPREMIER.png",MULTIPREMIER
+#EXTINF:-1 tvg-id="multipremier" group-title="Cine y Películas" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/MULTIPREMIER.png",MULTIPREMIER
 http://45.167.2.138:8000/play/a0lq/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="studio_universal" group-title="Cine y Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",Studio Universal
 http://45.167.2.138:8000/play/a0ln/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="tnt_alt" group-title="Series y Entretenimiento" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/TNT_Alt.png",TNT Alt
+#EXTINF:-1 tvg-id="tnt_alt" group-title="Series y Entretenimiento" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/TNT_Alt.png",TNT Alt
 http://45.167.2.138:8000/play/a0rn/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="tcm" group-title="Cine y Películas" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/TCM.png",TCM
+#EXTINF:-1 tvg-id="tcm" group-title="Cine y Películas" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/TCM.png",TCM
 http://45.167.2.138:8000/play/a0nu/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="hbo_plus" group-title="Cine y Películas" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/HBO_Plus.png",HBO Plus
+#EXTINF:-1 tvg-id="hbo_plus" group-title="Cine y Películas" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/HBO_Plus.png",HBO Plus
 http://45.167.2.138:8000/play/a06p/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="a&e" group-title="Series y Entretenimiento" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/A_E.png",A&E
+#EXTINF:-1 tvg-id="a&e" group-title="Series y Entretenimiento" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/A_E.png",A&E
 http://45.167.2.138:8000/play/a0nz/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="adult_swim" group-title="Series y Entretenimiento" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Adult_Swim.png",Adult Swim
+#EXTINF:-1 tvg-id="adult_swim" group-title="Series y Entretenimiento" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Adult_Swim.png",Adult Swim
 http://45.167.2.138:8000/play/a0ru/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="axn" group-title="Series y Entretenimiento" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/AXN.png",AXN
+#EXTINF:-1 tvg-id="axn" group-title="Series y Entretenimiento" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/AXN.png",AXN
 http://45.167.2.138:8000/play/a0qk/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="bbcser" group-title="Series y Entretenimiento" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/BBC_Series.png",BBC Series
+#EXTINF:-1 tvg-id="bbcser" group-title="Series y Entretenimiento" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/BBC_Series.png",BBC Series
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/1080p/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="buzz" group-title="Series y Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Buzz_2005.svg/revision/latest/scale-to-width-down/300?cb=20211218182600",Buzz
@@ -107,67 +107,67 @@ https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master_5.m3u8?hls
 #EXTINF:-1 tvg-id="chespiritoch" group-title="Series y Entretenimiento" tvg-logo="https://chespirito.com/img/footer-gpo-chespirito.png",Chespirito Channel
 https://vertvcable.testaacc.workers.dev/streamproxy?url=b3t7d3pBNjZzcH1sOTc1aXbCgcKBe301anZ0Nm5waHt9d3NowoB2fHs%2BNm5waHt9NDk4ODg4ODZ3c2jCgHNwens1dDp8Pw%3D%3D&ext=.m3u8?hls
 
-#EXTINF:-1 tvg-id="comedy_central" group-title="Series y Entretenimiento" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Comedy_Central.png",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="comedy_central" group-title="Series y Entretenimiento" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Comedy_Central.png",COMEDY CENTRAL
 http://45.167.2.138:8000/play/a0rd/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="e!" group-title="Series y Entretenimiento" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/E.png",E!
+#EXTINF:-1 tvg-id="e!" group-title="Series y Entretenimiento" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/E.png",E!
 http://45.167.2.138:8000/play/a0q8/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="tlc" group-title="Series y Entretenimiento" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/TLC.png",TLC
+#EXTINF:-1 tvg-id="tlc" group-title="Series y Entretenimiento" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/TLC.png",TLC
 http://45.167.2.138:8000/play/a0qd/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="chavo247" group-title="Series y Entretenimiento" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/El_Chavo_del_8_24_7.png",El Chavo del 8 24/7
+#EXTINF:-1 tvg-id="chavo247" group-title="Series y Entretenimiento" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/El_Chavo_del_8_24_7.png",El Chavo del 8 24/7
 https://vertvcable.testaacc.workers.dev/streamproxy?url=b3t7d3pBNjZzcH1sOTc1aXbCgcKBe301anZ0Nm5waHt9d3NowoB2fHs%2BNm5waHt9NDk3Pz8%2BNzZ3c2jCgHNwens1dDp8Pw%3D%3D&ext=.m3u8?hls
 
-#EXTINF:-1 tvg-id="copses" group-title="Series y Entretenimiento" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/COPS_En_Espa_ol.png",COPS En Español
+#EXTINF:-1 tvg-id="copses" group-title="Series y Entretenimiento" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/COPS_En_Espa_ol.png",COPS En Español
 https://rightsboosterltd-cops-1-pe.lg.wurl.tv/3000.m3u8?hls
 
 #EXTINF:-1 tvg-id="copses" group-title="Series y Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",Distrito Comedia
 http://45.167.2.138:8000/play/a0st/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="lifetime" group-title="Series y Entretenimiento" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/LIFETIME.png",LIFETIME
+#EXTINF:-1 tvg-id="lifetime" group-title="Series y Entretenimiento" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/LIFETIME.png",LIFETIME
 http://45.167.2.138:8000/play/a0q4/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="locomotion" group-title="Series y Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/ee/Locomotion.png/revision/latest/scale-to-width-down/1200?cb=20250924015704&path-prefix=es",Locomotion
 https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/chunks.m3u8?hls
 
-#EXTINF:-1 tvg-id="sony_channel" group-title="Series y Entretenimiento" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/SONY_Channel.png",SONY Channel
+#EXTINF:-1 tvg-id="sony_channel" group-title="Series y Entretenimiento" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/SONY_Channel.png",SONY Channel
 http://45.167.2.138:8000/play/a0qc/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="warner_cannel" group-title="Series y Entretenimiento" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Warner_Cannel.png",Warner Cannel
+#EXTINF:-1 tvg-id="warner_cannel" group-title="Series y Entretenimiento" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Warner_Cannel.png",Warner Cannel
 http://45.167.2.138:8000/play/a0qh/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="fx" group-title="Series y Entretenimiento" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/FX.png",FX
+#EXTINF:-1 tvg-id="fx" group-title="Series y Entretenimiento" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/FX.png",FX
 https://tvporinternet.arcando.cloud/proxy/fx?option=1
 
-#EXTINF:-1 tvg-id="savoirmedia" group-title="Series y Entretenimiento" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Savoir_Media.png",Savoir Media
+#EXTINF:-1 tvg-id="savoirmedia" group-title="Series y Entretenimiento" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Savoir_Media.png",Savoir Media
 https://vertvcable.testaacc.workers.dev/streamproxy?url=b3t7d3pBNjZvc3o1emh9dnB5NXRsa3BoNnNwfWw2ent5bGh0NXQ6fD8%3D&ext=.m3u8?hls
 
-#EXTINF:-1 tvg-id="tnt" group-title="Series y Entretenimiento" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/TNT_Alt.png",TNT MX
+#EXTINF:-1 tvg-id="tnt" group-title="Series y Entretenimiento" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/TNT_Alt.png",TNT MX
 https://tvporinternet.arcando.cloud/proxy/tnt?option=1?hls
 
-#EXTINF:-1 tvg-id="tnt_series" group-title="Series y Entretenimiento" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/TNT_Series.png",TNT Series
+#EXTINF:-1 tvg-id="tnt_series" group-title="Series y Entretenimiento" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/TNT_Series.png",TNT Series
 http://45.167.2.138:8000/play/a0l8/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="universal_channel" group-title="Series y Entretenimiento" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Universal_Channel.png",Universal Channel
+#EXTINF:-1 tvg-id="universal_channel" group-title="Series y Entretenimiento" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Universal_Channel.png",Universal Channel
 http://45.167.2.138:8000/play/a0o3/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="aztv" group-title="Series y Entretenimiento" tvg-logo="https://lh6.googleusercontent.com/proxy/OtW4Z97EHupFatYRUOo5a0DdXJqIxQu3AoHyLRMqLqFFhNvmQN6sfm5QVdItuLsrLls",AnimeZone TV
 https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8?hls
 
-#EXTINF:-1 tvg-id="univision" group-title="Regionales y Generales" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Univision.png",Univision
+#EXTINF:-1 tvg-id="univision" group-title="Regionales y Generales" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Univision.png",Univision
 http://45.167.2.138:8000/play/a0la/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="cartoon_network" group-title="Infantiles y Animación" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/CARTOON_NETWORK.png",CARTOON NETWORK
+#EXTINF:-1 tvg-id="cartoon_network" group-title="Infantiles y Animación" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/CARTOON_NETWORK.png",CARTOON NETWORK
 http://45.167.2.138:8000/play/a0px/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="cartoonito" group-title="Infantiles y Animación" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Cartoonito.png",Cartoonito
+#EXTINF:-1 tvg-id="cartoonito" group-title="Infantiles y Animación" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Cartoonito.png",Cartoonito
 http://45.167.2.138:8000/play/a0s8/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="discovery_kids" group-title="Infantiles y Animación" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Discovery_Kids.png",Discovery Kids
+#EXTINF:-1 tvg-id="discovery_kids" group-title="Infantiles y Animación" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Discovery_Kids.png",Discovery Kids
 http://45.167.2.138:8000/play/a0oi/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="disney_channel" group-title="Infantiles y Animación" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Disney_Channel.png",Disney Channel
+#EXTINF:-1 tvg-id="disney_channel" group-title="Infantiles y Animación" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Disney_Channel.png",Disney Channel
 http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/321978
 
 #EXTINF:-1 tvg-id="disney_jr" group-title="Infantiles y Animación" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSy46yATncR9XNQMRKqF6tlIm-gw0E9j9OXvjd1nBUOA&s=10",Disney JR
@@ -176,13 +176,13 @@ http://45.167.2.138:8000/play/a0l7/index.m3u8?hls
 #EXTINF:-1 tvg-id="disney_jr" group-title="Infantiles y Animación" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSy46yATncR9XNQMRKqF6tlIm-gw0E9j9OXvjd1nBUOA&s=10",DISNEY JR
 http://201.190.41.246:8000/play/a014/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="nickelodeon" group-title="Infantiles y Animación" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Nickelodeon.png",Nickelodeon
+#EXTINF:-1 tvg-id="nickelodeon" group-title="Infantiles y Animación" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Nickelodeon.png",Nickelodeon
 http://45.167.2.138:8000/play/a0qv/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="nick_jr." group-title="Infantiles y Animación" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/NICK_JR.png",NICK JR.
+#EXTINF:-1 tvg-id="nick_jr." group-title="Infantiles y Animación" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/NICK_JR.png",NICK JR.
 http://45.167.2.138:8000/play/a0qw/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="tooncast" group-title="Infantiles y Animación" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Tooncast.png",Tooncast
+#EXTINF:-1 tvg-id="tooncast" group-title="Infantiles y Animación" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Tooncast.png",Tooncast
 http://45.167.2.138:8000/play/a0s7/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="toonsmania_tv" group-title="Infantiles y Animación" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFJchQYgnIbiZpjoPV5XgfxR7kCuM03XbXTdXCHzCjAg&s=10",TOONSMANIA TV
@@ -191,40 +191,40 @@ https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8?hls
 #EXTINF:-1 tvg-id="zoomoo" group-title="Infantiles y Animación" tvg-logo="https://commons.wikimedia.org/wiki/File:ZooMoo_logo.svg",ZooMoo
 http://45.167.2.138:8000/play/a0sa/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="discovery_world" group-title="Documentales y Cultura" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Discovery_World.png",Discovery World
+#EXTINF:-1 tvg-id="discovery_world" group-title="Documentales y Cultura" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Discovery_World.png",Discovery World
 http://45.167.2.138:8000/play/a0m3/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="animal_planet" group-title="Documentales y Cultura" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Animal_Planet.png",Animal Planet
+#EXTINF:-1 tvg-id="animal_planet" group-title="Documentales y Cultura" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Animal_Planet.png",Animal Planet
 http://45.167.2.138:8000/play/a0nt/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="discovery_h&h" group-title="Documentales y Cultura" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Discovery_H_H.png",Discovery H&H
+#EXTINF:-1 tvg-id="discovery_h&h" group-title="Documentales y Cultura" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Discovery_H_H.png",Discovery H&H
 http://45.167.2.138:8000/play/a0oj/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="discovery_trvl" group-title="Documentales y Cultura" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Discovery_TRVL.png",Discovery TRVL
+#EXTINF:-1 tvg-id="discovery_trvl" group-title="Documentales y Cultura" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Discovery_TRVL.png",Discovery TRVL
 http://45.167.2.138:8000/play/a0re/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="discovery_channel" group-title="Documentales y Cultura" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Discovery_Channel.png",Discovery Channel
+#EXTINF:-1 tvg-id="discovery_channel" group-title="Documentales y Cultura" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Discovery_Channel.png",Discovery Channel
 http://45.167.2.138:8000/play/a0ok/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="discovery_turbo" group-title="Documentales y Cultura" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Discovery_TURBO.png",Discovery TURBO
+#EXTINF:-1 tvg-id="discovery_turbo" group-title="Documentales y Cultura" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Discovery_TURBO.png",Discovery TURBO
 http://45.167.2.138:8000/play/a0qe/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="el_gourmet" group-title="Documentales y Cultura" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/El_Gourmet.png",El Gourmet
+#EXTINF:-1 tvg-id="el_gourmet" group-title="Documentales y Cultura" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/El_Gourmet.png",El Gourmet
 http://45.167.2.138:8000/play/a0lj/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="historia" group-title="Documentales y Cultura" tvg-logo="https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8",HISTORIA
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8?hls
 
-#EXTINF:-1 tvg-id="history_channel_hd" group-title="Educacion" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/History_Channel_HD.png",History Channel
+#EXTINF:-1 tvg-id="history_channel_hd" group-title="Educacion" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/History_Channel_HD.png",History Channel
 http://45.167.2.138:8000/play/a0qy/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="history2" group-title="Documentales y Cultura" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/HISTORY2.png",HISTORY2
+#EXTINF:-1 tvg-id="history2" group-title="Documentales y Cultura" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/HISTORY2.png",HISTORY2
 http://45.167.2.138:8000/play/a0qf/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="id" group-title="Documentales y Cultura" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/ID.png",ID
+#EXTINF:-1 tvg-id="id" group-title="Documentales y Cultura" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/ID.png",ID
 http://45.167.2.138:8000/play/a0ol/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="nat_geo" group-title="Documentales y Cultura" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/NAT_GEO.png",NAT GEO
+#EXTINF:-1 tvg-id="nat_geo" group-title="Documentales y Cultura" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/NAT_GEO.png",NAT GEO
 http://45.167.2.138:8000/play/a0o0/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="oncemas" group-title="Documentales y Cultura" tvg-logo="https://canalonce.mx/REST/data/images/canal_once_logo2025_horizontal_blanco_sm.webp",Once +
@@ -233,16 +233,16 @@ https://vertvcable.testaacc.workers.dev/streamproxy?url=b3t7d3pBNjZ9cH12NWpodWhz
 #EXTINF:-1 tvg-id="turismo" group-title="Documentales y Cultura" tvg-logo="https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8",TURISMO
 https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8?hls
 
-#EXTINF:-1 tvg-id="az_corazon" group-title="Novelas y Hispanas" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Az_Corazon.png",Az Corazon
+#EXTINF:-1 tvg-id="az_corazon" group-title="Novelas y Hispanas" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Az_Corazon.png",Az Corazon
 http://45.167.2.138:8000/play/a0l9/index.m3u8
 
-#EXTINF:-1 tvg-id="kanal_d_drama" group-title="Novelas y Hispanas" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Kanal_D_Drama.png",Kanal D Drama
+#EXTINF:-1 tvg-id="kanal_d_drama" group-title="Novelas y Hispanas" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Kanal_D_Drama.png",Kanal D Drama
 http://45.167.2.138:8000/play/a0oa/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="las_estrellas" group-title="Novelas y Hispanas" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Las_Estrellas.png",Las Estrellas
+#EXTINF:-1 tvg-id="las_estrellas" group-title="Novelas y Hispanas" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Las_Estrellas.png",Las Estrellas
 http://45.167.2.138:8000/play/a0pk/index.m3u8
 
-#EXTINF:-1 tvg-id="pasiones" group-title="Novelas y Hispanas" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Pasiones.png",Pasiones
+#EXTINF:-1 tvg-id="pasiones" group-title="Novelas y Hispanas" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Pasiones.png",Pasiones
 http://45.167.2.138:8000/play/a0ld/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="tlnovelas_alt" group-title="Novelas y Hispanas" tvg-logo="https://tvporinternet.arcando.cloud/embed/tlnovelas",tlnovelas alt
@@ -251,31 +251,31 @@ https://tvporinternet.arcando.cloud/embed/tlnovelas
 #EXTINF:-1 tvg-id="tnt_novelas" group-title="Novelas y Hispanas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM835afIVxRx7XXDpGYLd-R7tLj6ks9rIZZMEo00h5IA&s=10",TNT NOVELAS
 http://45.167.2.138:8000/play/a0le/index.m3u8
 
-#EXTINF:-1 tvg-id="adn_noticias" group-title="Noticias y Política" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/ADN_NOTICIAS.png",ADN NOTICIAS
+#EXTINF:-1 tvg-id="adn_noticias" group-title="Noticias y Política" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/ADN_NOTICIAS.png",ADN NOTICIAS
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?hls
 
-#EXTINF:-1 tvg-id="cbs_t" group-title="Noticias y Política" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/CBC_News_Toronto.png",CBC News Toronto
+#EXTINF:-1 tvg-id="cbs_t" group-title="Noticias y Política" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/CBC_News_Toronto.png",CBC News Toronto
 https://vertvcable.testaacc.workers.dev/streamproxy?url=b3t7d3pBNjZrbnRyaW43ajg5fn1qNWpzdnxrbXl2dXs1dWx7NkpJSmZVbH56Zlt2eXZ1e3Y1dDp8Pw%3D%3D&ext=.m3u8?hls
 
 #EXTINF:-1 tvg-id="cnn" group-title="Noticias y Política" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyNstrGSba6B11q6srJHtmx16eV2nxUaTn-fZcgSBOyA&s=10",CNN
 http://45.167.2.138:8000/play/a0rx/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="dw" group-title="Noticias y Política" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/DW.png",DW
+#EXTINF:-1 tvg-id="dw" group-title="Noticias y Política" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/DW.png",DW
 http://45.167.2.138:8000/play/a002/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="estrella_news" group-title="Noticias y Política" tvg-logo="https://estrella-news-oando.amagi.tv/playlist.m3u8",ESTRELLA NEWS
 https://estrella-news-oando.amagi.tv/playlist.m3u8?hls
 
-#EXTINF:-1 tvg-id="france24" group-title="Noticias y Política" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/FRANCE24.png",FRANCE24
+#EXTINF:-1 tvg-id="france24" group-title="Noticias y Política" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/FRANCE24.png",FRANCE24
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8?hls
 
-#EXTINF:-1 tvg-id="global_news" group-title="Noticias y Política" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Global_News.png",Global News
+#EXTINF:-1 tvg-id="global_news" group-title="Noticias y Política" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Global_News.png",Global News
 https://vertvcable.testaacc.workers.dev/streamproxy?url=b3t7d3pBNjZzcH1sNWp2eXx6a3BucHtoc2tsfTVqdnQ2bnl2fHdrNnNwfWw2O0BoQDhsPm00ODc5OjQ7OjdtND9rPT00PD04Nzw8bTprN20%2BNnNwfWw1cHp0czY1dDp8Pw%3D%3D&ext=.m3u8?hsl
 
-#EXTINF:-1 tvg-id="ici" group-title="Noticias y Política" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/ICI.png",ICI
+#EXTINF:-1 tvg-id="ici" group-title="Noticias y Política" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/ICI.png",ICI
 https://vertvcable.testaacc.workers.dev/streamproxy?url=b3t7d3pBNjZodGtwanA1aHJodGhwwoFsazV1bHs2b3N6NnNwfWw2Pz46Ozk9NlBKUDRTcH1sNFp7eWxodDZ0aHp7bHk1dDp8Pw%3D%3D&ext=.m3u8?hls
 
-#EXTINF:-1 tvg-id="ici_rdi" group-title="Noticias y Política" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/ICI_RDI.png",ICI RDI
+#EXTINF:-1 tvg-id="ici_rdi" group-title="Noticias y Política" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/ICI_RDI.png",ICI RDI
 https://vertvcable.testaacc.workers.dev/streamproxy?url=b3t7d3pBNjZ5amh9c3B9bDVocmh0aHDCgWxrNXVsezZvc3o2c3B9bDY%2BNzs3OTw2f2podXlrcDZ0aHp7bHk1dDp8Pw%3D%3D&ext=.m3u8?hls
 
 #EXTINF:-1 tvg-id="milenio_television" group-title="Noticias y Política" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",MILENIO TELEVISION
@@ -296,10 +296,10 @@ http://45.167.2.138:8000/play/a0sg/index.m3u8?hls
 #EXTINF:-1 tvg-id="htv" group-title="Música y Tendencias" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT5TH2zlvN0aeQU9OkAY7UFtB3DXCwrA34uR_IrFM49Q&s=10",HTV
 http://45.167.2.138:8000/play/a0s9/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="mtv" group-title="Música y Tendencias" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/MTV.png",MTV
+#EXTINF:-1 tvg-id="mtv" group-title="Música y Tendencias" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/MTV.png",MTV
 http://45.167.2.138:8000/play/a0qt/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="mtv_en_español" group-title="Música y Tendencias" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/MTV_EN_ESPA_OL.png",MTV EN ESPAÑOL
+#EXTINF:-1 tvg-id="mtv_en_español" group-title="Música y Tendencias" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/MTV_EN_ESPA_OL.png",MTV EN ESPAÑOL
 https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8?hls
 
 #EXTINF:-1 tvg-id="telehit" group-title="Música y Tendencias" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvNZFpxuIIglwqt1_ZKzaKmouJf1NtGfVY7NyK1F9tjg&s=10",Telehit
@@ -647,22 +647,22 @@ http://45.167.2.138:8000/play/a06k/index.m3u8
 #EXTINF:-1 tvg-id="tv_getsemani" group-title="Religiosos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOpEtftjNjILNC3wgKAZsilxRdo4fu67UtpWr46rmvBQ&s=10",TV GETSEMANI
 http://45.167.2.138:8000/play/a0rg/index.m3u8
 
-#EXTINF:-1 tvg-id="mega.cl" group-title="Noticias" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/CL_MEGA_HD.png",MEGA Noticias
+#EXTINF:-1 tvg-id="mega.cl" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/CL_MEGA_HD.png",MEGA Noticias
 http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/28244
 
-#EXTINF:-1 tvg-id="latino_|_canal_5" group-title="⭐️ Telenovelas" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Latino_Canal_5.png",Latino | Canal 5
+#EXTINF:-1 tvg-id="latino_|_canal_5" group-title="⭐️ Telenovelas" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Latino_Canal_5.png",Latino | Canal 5
 http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/135430
 
 #EXTINF:-1 tvg-id="latino_|_canal_de_las_estrellas" group-title="⭐️ Telenovelas" tvg-logo="http://redworld.pro:8880/images/08a8ff2273ed6b7a6fa12dacc5b20a6d.png",Latino | Canal De Las Estrellas
 http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/135431
 
-#EXTINF:-1 tvg-id="latino_|_glitz" group-title="Entretenimiento" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Latino_Glitz.png",Glitz
+#EXTINF:-1 tvg-id="latino_|_glitz" group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Latino_Glitz.png",Glitz
 http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/135432
 
 #EXTINF:-1 tvg-id="latino_|_pasiones" group-title="⭐️ Telenovelas" tvg-logo="http://redworld.pro:8880/images/e470b16ca9c0f5a4deb717bdd7866f7f.png",Latino | Pasiones
 http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/135435
 
-#EXTINF:-1 tvg-id="latino_|_tlnovelas" group-title="Telenovelas" tvg-logo="https://github.com/xyaipsum/Jelly/blob/0c1e7d9b3cab97760030d9e76ca83a2f01335923/logos/Latino_TLNovelas.png",TLNovelas
+#EXTINF:-1 tvg-id="latino_|_tlnovelas" group-title="Telenovelas" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Latino_TLNovelas.png",TLNovelas
 http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/135436
 
 #EXTINF:-1 tvg-id="tl_novelas_univision" group-title="⭐️ Telenovelas" tvg-logo="http://redworld.pro:8880/images/86a28a66b5085df833f6b06f70e2dc55.png",TL Novelas Univision
