@@ -65,6 +65,9 @@ http://45.167.2.138:8000/play/a0rp/index.m3u8?hls
 #EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/CINEMAX.png" group-title="Cine y Películas",CINEMAX
 https://tvporinternet.arcando.cloud/proxy/cinemax?hls
 
+#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/CINEMAX.png" group-title="Cine y Películas",Cinecanal
+http://181.119.210.234:4000/play/a04t/index.m3u8?hls
+
 #EXTINF:-1 tvg-id="golden_edge" tvg-name="Golden Edge" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Golden_Edge.png" group-title="Cine y Películas",Golden Edge
 http://45.167.2.138:8000/play/a0sb/index.m3u8?hls
 
