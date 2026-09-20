@@ -54,7 +54,7 @@ http://45.167.2.138:8000/play/a0py/index.m3u8?hls
 http://45.167.2.138:8000/play/a0ro/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine y Películas",AMC
-http://45.167.2.138:8000/play/a0o1/index.m3u8?hls
+http://181.119.210.234:4000/play/a02k/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="amc_series" tvg-name="AMC SERIES" tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/index/Z9YHbjFofV_logo-amc-series.webp" group-title="Cine y Películas",AMC SERIES
 http://45.167.2.138:8000/play/a0q5/index.m3u8?hls
@@ -148,13 +148,13 @@ http://45.167.2.138:8000/play/a0nu/index.m3u8?hls
 http://45.167.2.138:8000/play/a06p/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="a&e" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/A_E.png" group-title="Series y Entretenimiento",A&E
-http://45.167.2.138:8000/play/a0nz/index.m3u8?hls
+http://181.119.210.234:4000/play/a02j/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="adult_swim" tvg-name="Adult Swim" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Adult_Swim.png" group-title="Series y Entretenimiento",Adult Swim
-http://45.167.2.138:8000/play/a0ru/index.m3u8?hls
+http://181.119.210.234:4000/play/a01r/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/AXN.png" group-title="Series y Entretenimiento",AXN
-http://45.167.2.138:8000/play/a0qk/index.m3u8?hls
+http://181.119.210.234:4000/play/a063/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="bbcser" tvg-name="BBC Series" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/BBC_Series.png" group-title="Series y Entretenimiento",BBC Series
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/1080p/index.m3u8?hls
@@ -265,7 +265,7 @@ http://45.167.2.138:8000/play/a0sa/index.m3u8?hls
 http://45.167.2.138:8000/play/a0m3/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="animal_planet" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Animal_Planet.png" group-title="Documentales y Cultura",Animal Planet
-http://45.167.2.138:8000/play/a0nt/index.m3u8?hls
+http://181.119.210.234:4000/play/a02g/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="discovery_h&h" tvg-name="Discovery H&H" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Discovery_H_H.png" group-title="Documentales y Cultura",Discovery H&H
 http://45.167.2.138:8000/play/a0oj/index.m3u8?hls
@@ -286,7 +286,7 @@ http://45.167.2.138:8000/play/a0lj/index.m3u8?hls
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8?hls
 
 #EXTINF:-1 tvg-id="history_channel_hd" tvg-name="History Channel" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/History_Channel_HD.png" group-title="Educacion",History Channel
-http://45.167.2.138:8000/play/a0qy/index.m3u8?hls
+http://181.119.210.234:4000/play/a02a/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="history2" tvg-name="HISTORY2" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/HISTORY2.png" group-title="Documentales y Cultura",HISTORY2
 http://45.167.2.138:8000/play/a0qf/index.m3u8?hls
@@ -745,7 +745,7 @@ http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/135439?hls
 http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/166702?hls
 
 #EXTINF:-1 tvg-id="latino_|_a3s" tvg-name="Latino | A3S" tvg-logo="http://redworld.pro:8880/images/275f7a0c2a55fcac1f240202bcf219a0.png" group-title="⭐️ Telenovelas",Latino | A3S
-http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/135427?hls
+http://181.119.210.234:4000/play/a00l/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="fox.cl" tvg-name="F0X $PORTS 1 (CHI)" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="⭐️ CHILE DEPORTE",F0X $PORTS 1 (CHI)
 http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/120545?hls
@@ -868,7 +868,7 @@ http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/318632?hls
 http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/321969?hls
 
 #EXTINF:-1 tvg-id="kids_|_cartoon_network" tvg-name="KIDS | CARTOON NETWORK" tvg-logo="http://redworld.pro:8880/images/c67ab172eb643fea7070b0a3514f4459.png" group-title="⭐️ Infantiles",KIDS | CARTOON NETWORK
-http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/321974?hls
+http://181.119.210.234:4000/play/a017/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="kids_|_cartoonito" tvg-name="KIDS | CARTOONITO" tvg-logo="http://redworld.pro:8880/images/be37514186ea0e9928444db722509319.png" group-title="⭐️ Infantiles",KIDS | CARTOONITO
 http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/321975?hls
@@ -958,7 +958,7 @@ http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/414489?hls
 http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/414495?hls
 
 #EXTINF:-1 tvg-id="cine_|_fx__fhd" tvg-name="CINE | FX  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | FX  FHD
-http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/414497?hls
+http://181.119.210.234:4000/play/a02m/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="cine_|_space_chanel__hd" tvg-name="CINE | SPACE CHANEL  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | SPACE CHANEL  HD
 http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/414501?hls
