@@ -39,7 +39,7 @@ http://45.167.2.138:8000/play/a0qm/index.m3u8?hls
 http://45.167.2.138:8000/play/a0qn/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="tudn" tvg-name="TUDN" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="Deportes",TUDN
-http://45.167.2.138:8000/play/a0r4/index.m3u8?hls
+http://138.59.177.78:9999/play/a07z/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="teletrak_v2?" tvg-name="TELETRAK" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/TELETRAK_V2.png" group-title="Deportes",TELETRAK
 https://vertvcable.testaacc.workers.dev/streamproxy?url=b3t7d3pBNjZ8dXNwdHB7bGs9NGpzNWt3ejVzcH1sNnp3dnl7cHVub2s2end2eXtwdW5vazV6dHBzNndzaMKAc3B6ezV0Onw%2F&ext=.m3u8?hls
