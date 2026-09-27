@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entretenimiento",Azteca Internacional
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
 #EXTINF:-1 tvg-id="Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx" tvg-logo="https://i0.wp.com/americayya.net/wp-content/uploads/2018/05/Azteca_7_Logo.png?ssl=1" group-title="Entretenimiento",AZTECA 7
 http://138.59.177.78:9999/play/a09s/index.m3u8
 #EXTINF:-1 tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-logo="https://raw.githubusercontent.com/xyaipsum/Jelly/refs/heads/main/logos/Las_Estrellas.png" group-title="Entretenimiento",Las Estrellas
